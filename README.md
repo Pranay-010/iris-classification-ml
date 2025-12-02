@@ -5,11 +5,14 @@ The model predicts species based on sepal and petal measurements.
 
 **BADGES**
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.13.5-blue">
+  <img src="https://img.shields.io/badge/TensorFlow-2.x-orange">
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-green">
+  <img src="https://img.shields.io/badge/Status-Completed-success">
+  <img src="https://img.shields.io/badge/License-MIT-yellow">
+</p>
+
 
 **Project Structure**
 
